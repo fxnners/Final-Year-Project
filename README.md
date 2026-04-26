@@ -69,8 +69,7 @@ CS3IP_FinlaySmith.zip
 ---
 
 ## How to access datasets 
-The '2022-23 play-by-play.csv' can be found in the submission folder 
-https://drive.google.com/file/d/1cU_6-JSDCFgVUZvBDHnu4AgQP6jO-9xE/view?usp=sharing
+The '2022-23 play-by-play.csv' can be found in the submission folder
 
 
 The 'NBA_Stats_Defence.csv' is available on the repository
