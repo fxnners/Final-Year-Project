@@ -69,8 +69,7 @@ CS3IP_FinlaySmith.zip
 ---
 
 ## How to access datasets 
-Since the '2022-23 play-by-play.csv' is too large to be uploaded to GitHub
-the dataset can be downloaded via the link below:
+The '2022-23 play-by-play.csv' can be found in the submission folder 
 https://drive.google.com/file/d/1cU_6-JSDCFgVUZvBDHnu4AgQP6jO-9xE/view?usp=sharing
 
 
